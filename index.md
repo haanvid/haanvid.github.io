@@ -1,10 +1,9 @@
 ## Haanvid Lee
 
-You can use the [editor on GitHub](https://github.com/haanvid/haanvid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
+Electrical Engineering MS Student (Degree expected at Feb. 2017)
+Cognitive Neuro-Robotics Lab
+Korea Advanced Institute of Science and Technology (KAIST)
+Daejeon, Republic of Korea
 
 ### Markdown
 
