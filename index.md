@@ -3,6 +3,8 @@ School of Electrical Engineering,
 Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Republic of Korea  
 
+![Image]('haanvid.github.io/uploaded_images/HaanvidProfile.jpg')
+
 ## Research Interest
 
 - Deep Reinforcement Learning
