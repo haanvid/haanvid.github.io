@@ -8,6 +8,12 @@ Daejeon, Republic of Korea
   <!--  <img src="your_relative_path_here_number_2_large_name" width="350"/>   -->
 </p>
 
+
+<IMG class="TextWrap" SRC="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg">
+<P>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ante. Mauris eleifend, quam a vulputate dictum, massa quam dapibus leo, eget vulputate orci purus ut lorem. In fringilla mi in ligula. Pellentesque aliquam quam vel dolor. Nunc adipiscing. Sed quam odio, tempus ac, aliquam molestie, varius ac, tellus. Vestibulum ut nulla aliquam risus rutrum interdum. Pellentesque lorem. Curabitur sit amet erat quis risus feugiat viverra.
+</P>
+
 ## Research Interest
 
 - Deep Reinforcement Learning
