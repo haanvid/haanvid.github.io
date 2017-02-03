@@ -1,7 +1,7 @@
 ## Haanvid Lee, MS
-School of Electrical Engineering,//
-Korea Advanced Institute of Science and Technology (KAIST)//
-Daejeon, Republic of Korea//
+School of Electrical Engineering,/n
+Korea Advanced Institute of Science and Technology (KAIST)/n
+Daejeon, Republic of Korea/n
 
 ## Research Interest
 
