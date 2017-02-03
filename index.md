@@ -3,7 +3,7 @@ School of Electrical Engineering,
 Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Republic of Korea  
 
-![Image](https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg | width=100)
+![](https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg | width=100)
 
 ## Research Interest
 
