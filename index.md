@@ -29,7 +29,8 @@ Cognitive Neuro-Robotics Lab
 [Link](url) and ![Image]('haanvid.github.io/uploaded_images/HaanvidProfile.jpg')
 
 use Google Iframe link
-go to the video, -> share -> copy source code -> change variable
+go to the video, -> share -> copy source code -> change variabl
+(티들리위키)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
