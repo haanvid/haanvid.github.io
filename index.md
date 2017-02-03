@@ -1,8 +1,11 @@
 ## Haanvid Lee, MS
 
 School of Electrical Engineering,
+
 Cognitive Neuro-Robotics Lab
+
 Korea Advanced Institute of Science and Technology (KAIST)
+
 Daejeon, Republic of Korea
 
 ## Research Interest
