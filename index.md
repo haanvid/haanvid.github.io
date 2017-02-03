@@ -1,21 +1,8 @@
 ## Haanvid Lee, MS
-<img class="TextWrap" src="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="350" style="float : right">
+<img class="TextWrap" src="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="350" style="float : right">  
 School of Electrical Engineering,  
 Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Republic of Korea  
-
-
-
-<p align="right">
-  <img src="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="350"/>
-  <!--  <img src="your_relative_path_here_number_2_large_name" width="350"/>   -->
-</p>
-
-
-<IMG class="TextWrap" SRC="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="350">
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ante. Mauris eleifend, quam a vulputate dictum, massa quam dapibus leo, eget vulputate orci purus ut lorem. In fringilla mi in ligula. Pellentesque aliquam quam vel dolor. Nunc adipiscing. Sed quam odio, tempus ac, aliquam molestie, varius ac, tellus. Vestibulum ut nulla aliquam risus rutrum interdum. Pellentesque lorem. Curabitur sit amet erat quis risus feugiat viverra.
-</p>
 
 ## Research Interest
 
