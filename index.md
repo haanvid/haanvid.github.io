@@ -1,13 +1,16 @@
-## Haanvid Lee
+## Haanvid Lee, MS
 
-Electrical Engineering MS Student (Degree expected at Feb. 2017)
+School of Electrical Engineering,
 Cognitive Neuro-Robotics Lab
 Korea Advanced Institute of Science and Technology (KAIST)
 Daejeon, Republic of Korea
 
-### Markdown
+## Research Interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Deep Reinforcement Learning
+- Robotics
+- Computer Vision
+- Control
 
 ```markdown
 Syntax highlighted code block
