@@ -1,5 +1,5 @@
 ## Haanvid Lee, MS
-<img class="TextWrap" src="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="350" style="float : right">  
+<img class="TextWrap" src="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="150" style="float : right">  
 School of Electrical Engineering,  
 Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Republic of Korea  
