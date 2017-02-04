@@ -21,16 +21,16 @@ IEEE
 - Control
 
 ## Publications
-1. **Lee, H.**, Jung, M. and Tani, J. (2016) Characteristics of Visual Categorization of Long-Concatenated and Object-Directed Human Actions by a Multiple Spatio-Temporal Scales Recurrent Neural Network Model. arXiv preprint arXiv:1602.01921.
+1. **Lee, H.**, Jung, M. and Tani, J. (2016)  Characteristics of Visual Categorization of Long-Concatenated and Object-Directed Human Actions by a Multiple Spatio-Temporal Scales Recurrent Neural Network Model. arXiv preprint arXiv:1602.01921.
 2. You, S., **Lee, H.**, Lee, D., Mok, H., Lee, Y., & Han, S. (2011). Speed ratio control for electronic differentials. Electronics letters, 47(16), 933-934.
 
 
 ## Education
-Mar. 2015 - Feb. 2017  
+Mar. 2015 - Feb. 2017
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea  
 **Degree: Master of Science**  
-  Major: Electrical Engineering  
-  Overall GPA – 3.67/4.00  
+Major: Electrical Engineering  
+Overall GPA – 3.67/4.00  
 
 ```markdown
 Cognitive Neuro-Robotics Lab
