@@ -27,12 +27,10 @@ IEEE
 
 ## Education
 Mar. 2015 - Feb. 2017
-```markdown
-**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea
-**Degree: Master of Science**
-Major: Electrical Engineering
-Overall GPA – 3.67/4.00
-```
+  **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea
+  **Degree: Master of Science**
+  Major: Electrical Engineering
+  Overall GPA – 3.67/4.00
 
 ```markdown
 Cognitive Neuro-Robotics Lab
