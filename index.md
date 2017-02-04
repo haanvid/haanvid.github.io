@@ -26,7 +26,9 @@ IEEE
 
 
 ## Education
+
 Mar. 2015 - Feb. 2017
+
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea  
 **Degree: Master of Science**  
 Major: Electrical Engineering  
