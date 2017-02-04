@@ -6,10 +6,10 @@ Daejeon, Republic of Korea
 
 ## Affiliations
 
-# Laboratory
+### Laboratory
 Cognitive Neuro-Robotics Lab. (Prof. Jun Tani), KAIST
 
-# Society
+### Society
 IEEE
 
 
