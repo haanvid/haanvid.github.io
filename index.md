@@ -4,6 +4,15 @@ School of Electrical Engineering,
 Korea Advanced Institute of Science and Technology (KAIST)  
 Daejeon, Republic of Korea  
 
+## Affiliations
+
+# Laboratory
+Cognitive Neuro-Robotics Lab. (Prof. Jun Tani), KAIST
+
+# Society
+IEEE
+
+
 ## Research Interest
 
 - Deep Reinforcement Learning
