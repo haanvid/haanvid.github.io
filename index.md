@@ -23,7 +23,7 @@ IEEE
 ## Publications
 1. **Lee, H.**, Jung, M. and Tani, J. (2016) Characteristics of Visual Categorization of Long-Concatenated and Object-Directed Human Actions by a Multiple Spatio-Temporal Scales Recurrent Neural Network Model. arXiv preprint arXiv:1602.01921.
 [PDF](https://arxiv.org/pdf/1602.01921.pdf)
-2. You, S., **Lee, H.**, Lee, D., Mok, H., Lee, Y., & Han, S. (2011) Speed ratio control for electronic differentials. Electronics letters, 47(16), 933-934.
+2. You, S., **Lee, H.**, Lee, D., Mok, H., Lee, Y., & Han, S. (2011) Speed ratio control for electronic differentials. Electronics letters, 47(16), 933-934.  
 [PDF](http://ieeexplore.ieee.org/document/5980042/)
 
 ## Education
