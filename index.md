@@ -1,11 +1,9 @@
-## Haanvid Lee, MS
+## Haanvid Lee, Ph.D. Candidate
 <img class="TextWrap" src="https://haanvid.github.io/uploaded_images/HaanvidProfile.jpg" width="150" style="float : right">  
-School of Electrical Engineering,  
-Korea Advanced Institute of Science and Technology (KAIST)  
-Daejeon, Republic of Korea  
+
 
 ## Affiliations
-School of Computing, KAIST
+School of Computing, Korea Advanced Institute of Science and Technology (KAIST), Deajeon, Republic of Korea.
 
 ### Laboratory
 Artificial Intelligence & Probabilistic Reasoning Lab. (Prof. Kee-Eung Kim), KAIST
@@ -17,6 +15,8 @@ IEEE
 ## Research Interest
 
 - Deep Reinforcement Learning
+- Imitation Learning / Inverse Reinforcement Learning
+- Policy Gradient Methods
 - Robotics
 - Computer Vision
 - Control
