@@ -5,9 +5,10 @@ Korea Advanced Institute of Science and Technology (KAIST)
 Daejeon, Republic of Korea  
 
 ## Affiliations
+School of Computing, KAIST
 
 ### Laboratory
-Cognitive Neuro-Robotics Lab. (Prof. Jun Tani), KAIST
+Artificial Intelligence & Probabilistic Reasoning Lab. (Prof. Kee-Eung Kim), KAIST
 
 ### Society
 IEEE
